@@ -21,7 +21,7 @@ printf("%s %i is %i and is 0\n", text, n, lastDigit);
 }
 else if (lastDigit > 5)
 {
-printf("%s %i is %i and is greater than 5\n", text, n, lastDigit)
+printf("%s %i is %i and is greater than 5\n", text, n, lastDigit);
 }
 else if (lastDigit < 6)
 {
