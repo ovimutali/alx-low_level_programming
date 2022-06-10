@@ -14,11 +14,9 @@ for (x = 0; x < 15; x++)
 if (x > 9)
 {
 _putchar(49);
-{
+}
 _putchar(48 + (x % 10));
 }
-}
 _putchar('\n');
-}
 }
 }
