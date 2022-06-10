@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print_diagonal - print diagonal line on terminal
- * @n: number of lines
+* print_diagonal - print diagonal line on terminal
+* @n: number of lines
 * Return: void
 */
 void print_diagonal(int n)
@@ -23,5 +23,6 @@ for (j = 0; j < n; j++)
 _putchar(' ');
 }
 _putchar('\n')
+}
 }
 }
