@@ -1,5 +1,12 @@
 #include "main.h"
 
+/**
+ * string_toupper - Function prototype
+ * Description: Converts a string ro uppercase
+ * @str: The string to be converted to uppercase
+ * Return: Pointer to the str
+ */
+
 char *string_toupper(char *str)
 {
 	int i;
